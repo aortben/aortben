@@ -6,8 +6,6 @@ Me gusta subir repositorios vacíos 😶
 💻 Aprendiendo Java, SQL, HTML entre otros.  
 🚀 Buscando iniciar algún proyecto y seguir aprendiendo.  
 
-![Imagen](aortben/pablomotosVCS.png)
-
 ### Encuéntrame en:
 
 - 📧 Correo de contacto: alvaroortegabenitez03@gmail.com  
