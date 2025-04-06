@@ -2,7 +2,7 @@
 
 Me gusta subir respositorios vacios 😶
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en el centro IES Alixar (Castilleja). 
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en el centro IES Alixar (Castilleja). <br>
 💻 Aprendiendo Java, SQL, html entre otros.
 🚀 Buscando inciar algun proyecto y seguir aprendiendo.
 
