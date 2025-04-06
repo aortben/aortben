@@ -1,15 +1,18 @@
-## ¡Buenas! Soy Alvaro 👋
+## ¡Buenas! Soy Álvaro 👋
 
-Me gusta subir respositorios vacios 😶
+Me gusta subir repositorios vacíos 😶
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en el centro IES Alixar (Castilleja). <br>
-💻 Aprendiendo Java, SQL, html entre otros. <br>
-🚀 Buscando inciar algun proyecto y seguir aprendiendo. <br>
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en el centro IES Alixar (Castilleja).  
+💻 Aprendiendo Java, SQL, HTML entre otros.  
+🚀 Buscando iniciar algún proyecto y seguir aprendiendo.  
 
-<h3>Encuentrame en: </h3>
-- Correo de contacto: alvaroortegabenitez03@gmail.com <br>
-- [Instagram] (https://www.instagram.com/alviam._/) <br>
-- [X] (https://x.com/Arvarisu)
+
+
+### Encuéntrame en:
+
+- 📧 Correo de contacto: alvaroortegabenitez03@gmail.com  
+- 📷 [Instagram](https://www.instagram.com/alviam._/)  
+- 🐦 [X (Twitter)](https://x.com/Arvarisu)
 
 
 
