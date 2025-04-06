@@ -6,7 +6,7 @@ Me gusta subir repositorios vacíos 😶
 💻 Aprendiendo Java, SQL, HTML entre otros.  
 🚀 Buscando iniciar algún proyecto y seguir aprendiendo.  
 
-
+![Mi foto](daw1tgit/pablomotosVSC)
 
 ### Encuéntrame en:
 
